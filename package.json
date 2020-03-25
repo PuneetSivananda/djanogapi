@@ -1,0 +1,23 @@
+{
+  "name": "loobackapi",
+  "version": "1.0.0",
+  "description": "An Api ",
+  "main": "index.js",
+  "dependencies": {
+    "loopback": "^3.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuneetSivananda/djanogapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuneetSivananda/djanogapi/issues"
+  },
+  "homepage": "https://github.com/PuneetSivananda/djanogapi#readme"
+}
